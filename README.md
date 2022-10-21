@@ -40,8 +40,8 @@ Clone feito a partir da construcao original feita pelo desenvolvedor [@felipemot
 ![Tela principal](https://github.com/macaury/Lista-de-tarefas/blob/main/Screenshots/tela%20Principal.jpeg)
 
 
-![Compra das passagens](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Tela da Tarefa](https://github.com/macaury/Lista-de-tarefas/blob/main/Screenshots/WhatsApp%20Image%202022-10-21%20at%204.50.19%20PM.jpeg)
 
 
-![Passagens compradas](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Em dispositivos moveis](https://github.com/macaury/Lista-de-tarefas/blob/main/Screenshots/tarefa.jpeg)
 
