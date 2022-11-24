@@ -1,8 +1,7 @@
 ## Authors ✒️
 
 
-- [@felipemotarocha](https://www.github.com/felipemotarocha) {
-    - [@macaury](https://www.github.com/macaury) autor do clone }
+- [@macaury](https://www.github.com/macaury)
 
 
 ## Contatos 📬
