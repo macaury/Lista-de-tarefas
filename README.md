@@ -15,7 +15,7 @@
 
 # Sobre o Clone 💣
 
-Clone feito a partir da construcao original feita pelo desenvolvedor [@felipemotarocha](https://www.github.com/felipemotarocha)
+Clone feito a partir da construcao original feito pelo desenvolvedor [@felipemotarocha](https://www.github.com/felipemotarocha)
 
 ## Tecnologias utilizadas 🖥️
  
